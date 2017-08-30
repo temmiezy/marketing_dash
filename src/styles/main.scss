@@ -1,0 +1,26 @@
+@import 'base';
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~font-awesome/scss/font-awesome';
+
+// Some best-practice CSS that's useful for most apps
+html {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+h1{
+  font-size: 3rem;
+  color:#2aabd2;
+}

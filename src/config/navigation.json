@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home",
+      "route": "/",
+      "icon": "fa fa-lg fa-fw fa-home"
+    },
+    {
+      "title": "Vehicles",
+      "route": "/vehicles",
+      "icon": "fa fa-lg fa-fw fa-car"
+    },
+    {
+      "title": "Test",
+      "route": "/test",
+      "icon": "fa fa-lg fa-fw fa-plus"
+    }
+  ]
+}
